@@ -21,7 +21,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internship%202026-1f6feb?style=flat-square" alt="Internship 2026"/>
-  <img src="https://img.shields.io/badge/Focus-Big%20Data%20%26%20Software%20Projects-111827?style=flat-square" alt="Focus"/>
 </p>
 
 ---
