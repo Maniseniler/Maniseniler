@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1220,50:114c97,100:38bdf8&text=Ibrahim%20Bouchaala&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Turning%20Ideas%20Into%20Code&descAlignY=60&descSize=20&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1220,50:114c97,100:38bdf8&text=Ibrahim%20BOUCHAALA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Turning%20Ideas%20Into%20Code&descAlignY=60&descSize=20&animation=fadeIn"
     alt="Ibrahim Bouchaala banner"
     width="100%"
   />
