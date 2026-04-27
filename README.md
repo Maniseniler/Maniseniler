@@ -55,6 +55,7 @@
 
 ## Featured Projects
 
+- **[CRM Project](https://github.com/Maniseniler/CRMProject)** — A PHP-based Customer Relationship Management (CRM) web application
 - **[Rabbits Manager](https://github.com/Maniseniler/Rabbits-Manager)** — Application for managing rabbits, breeding, customers, sales, invoices, and family tree data
 - **[Discord Bots](https://github.com/Maniseniler/TarinWelcomer)** — Bots built with **Node.js** and **discord.js** for automation and server management
 - **[OAuth 2.0 with PKCE](https://github.com/Maniseniler/Kick_Auth)** — Secure authentication flow built with **Express.js**
